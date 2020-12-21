@@ -4,9 +4,9 @@
 
 # Funcionamento
 
-O Alarme (Beep) é disparado caso a distância identificada pelo sensor de distância ultrassônico seja menor ou igual a 5cm.
-O LED vermelho aceso, idica que o objeto está próximo ao sensor e ele acende junto com o "beep".
-O LED verde aceso, indica que o objeto está distante ao sensor.
+- O Alarme (Beep) é disparado caso a distância identificada pelo sensor de distância ultrassônico seja menor ou igual a 5cm.
+- O LED vermelho aceso, idica que o objeto está próximo ao sensor e ele acende junto com o "beep".
+- O LED verde aceso, indica que o objeto está distante ao sensor.
 
 # Dependências
 
